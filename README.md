@@ -51,12 +51,14 @@ world-cup-data-analysis-dashboard/
 ```bash
 pip install streamlit pandas numpy matplotlib
 ```
+## 2. Run the Application
+```bash 
 streamlit run app.py
+```
 
 
 
-
-Dataset
+## Dataset
 The dataset contains historical FIFA World Cup match and team information and is stored inside the data/ folder.
 
 Author
