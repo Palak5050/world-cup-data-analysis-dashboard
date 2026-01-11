@@ -50,6 +50,7 @@ world-cup-data-analysis-dashboard/
 ### 1. Install required libraries
 ```bash
 pip install streamlit pandas numpy matplotlib
+```
 streamlit run app.py
 
 
