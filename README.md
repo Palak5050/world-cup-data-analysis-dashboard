@@ -61,6 +61,6 @@ streamlit run app.py
 ## Dataset
 The dataset contains historical FIFA World Cup match and team information and is stored inside the data/ folder.
 
-Author
-Palak Sharma
-AI / ML & Data Analytics Enthusiast
+## Author
+- Palak Sharma  
+- AI / ML & Data Analytics Enthusiast
