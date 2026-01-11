@@ -29,7 +29,8 @@ world-cup-data-analysis-dashboard/
 ├── .gitignore
 └── README.md
 
-## How to Run the Project 1. Install required libraries:
+## How to Run the Project
+1. Install required libraries:
 pip install streamlit pandas numpy matplotlib
 Run the application:
 streamlit run app.py
