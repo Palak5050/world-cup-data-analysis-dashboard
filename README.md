@@ -32,7 +32,7 @@ The dashboard provides interactive visualizations and includes a basic chatbot m
 ---
 
 ## Project Structure
-
+```bash
 world-cup-data-analysis-dashboard/
 ├── app.py
 ├── chatbot.py
@@ -41,7 +41,7 @@ world-cup-data-analysis-dashboard/
 │ └── world_cup_results.xlsx
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
